@@ -1,4 +1,4 @@
-<h1>First task of Internship(Graduate Rotational Internship Program provided by The Sparks Foundation</h1>
+<h1>First task of Internship(Graduate Rotational Internship Program) provided by The Sparks Foundation</h1>
 Live Demo - http://sparksfoundation.atspace.cc/
 <p>Features: 
 1> Add a user
