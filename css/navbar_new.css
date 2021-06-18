@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+*{
+	box-sizing: border-box;
+}
+.nav-link{
+	margin-right: 30px;
+	color:#2F363F;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #4C4B4B;
+	letter-spacing: 0.5px;
+}
+
+
+h2{
+	color: #4C4B4B;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
+
+.bg-custom{
+background:#E4BAD4;
+}
+
+.navbar-custom-style{
+	width:40%;
+	background-color: #fff;
+	background-image: linear-gradient(#8d98e3 40%,#854fee 60%);
+	padding-left:0px;
+	text-transform: uppercase;
+	font-size:1.6rem;
+	text-align: center;
+}
+
+
+
+
